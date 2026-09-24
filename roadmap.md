@@ -5,4 +5,4 @@
 - [ ] Add local student identification and browser persistence.
 - [ ] Add responsive desktop and mobile layouts.
 - [ ] Validate build and key interactions.
-- [ ] Import the two course PDFs when supplied (blocked: files not uploaded yet).
+- [ ] Parse and import the two supplied course PDFs faithfully.
